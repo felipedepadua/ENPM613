@@ -3,6 +3,10 @@ Class: ENPM613
 
 INSTRUCTIONS:
 
+0) First of all. After getting the files in your local machine, do the following:
+  0.1) Go to Terminal and directory where saved files and run "npm init" then run "npm install" (this will install all libraries and dependencies for software)
+  PS: you should have nodejs installed (already comes with NPM)
+
 1) To try the webservice, do the following:
   1.1) Run the webservice:
       1.1.1) Go to Terminal and the folder where it is located
